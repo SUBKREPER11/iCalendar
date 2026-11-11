@@ -50,8 +50,8 @@ Wymagany jest **Python 3.9+**.
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-login/twoje-repo.git
-   cd twoje-repo
+   git clone https://github.com/SUBKREPER11/iCalendar.git
+   cd iCalendar
    ```
 
 2. Utwórz i aktywuj środowisko wirtualne:
